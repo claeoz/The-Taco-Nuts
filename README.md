@@ -1,13 +1,23 @@
 Project title and description
 
-Team name, motto, and avatar
 
-Team member names and roles
+Team Name: Taco Nuts
 
-Link to your team website (GitHub Pages URL)
+Motto: Taco bout security and what that beans 
+
+Avatar
+
+
+Team members with their roles:
+
+
+Our team website (GitHub Pages URL)
+
 
 Installation and setup instructions (will be added later)
 
+
 How to contribute
+
 
 License information
