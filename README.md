@@ -1,23 +1,24 @@
-Project title and description
+Project Title:
 
+Description: 
 
 Team Name: Taco Nuts
 
 Motto: Taco bout security and what that beans 
 
-Avatar
-
+Avatar: An Adorable Chibi AI Pinto Bean
 
 Team members with their roles:
+BP:
+BK:
+Clae O: Leader...?
+LH:
+MS:
 
+Our team website: https://claeoz.github.io/The-Taco-Nuts/
 
-Our team website (GitHub Pages URL)
+Installation and setup instructions: (will be added later)
 
+How to contribute:
 
-Installation and setup instructions (will be added later)
-
-
-How to contribute
-
-
-License information
+Look at the created LICENSE for LICENSE information.
