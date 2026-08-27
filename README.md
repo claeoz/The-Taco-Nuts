@@ -1,6 +1,6 @@
 Project Title:
 
-Description: 
+Description: our project for fall 2026 secure software applications
 
 Team Name: Taco Nuts
 
