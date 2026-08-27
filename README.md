@@ -21,4 +21,4 @@ Installation and setup instructions: (will be added later)
 
 How to contribute:
 
-Look at the created LICENSE for LICENSE information.
+Look at the created MIT License for LICENSE information.
