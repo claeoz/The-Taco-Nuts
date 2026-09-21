@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="the-taco-nuts2026.client/the-taco-nuts2026.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="The-Taco-Nuts2026.Server/The-Taco-Nuts2026.Server.csproj" />
+</Solution>

@@ -1,0 +1,40 @@
+﻿
+.app {
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #222;
+    background-color: #f5f6fa;
+}
+
+.app-header {
+    padding: 40px 20px;
+    text-align: center;
+    color: white;
+    background-color: #1a2136;
+}
+
+    .app-header h1 {
+        margin-bottom: 10px;
+    }
+
+.home-content {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    color: white;
+    background-color: #2563eb;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #1d4ed8;
+    }
